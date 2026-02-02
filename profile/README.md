@@ -27,6 +27,10 @@ Our workshops are for:
 - When to trust AI suggestions vs. when to override
 - Building a workflow that makes you faster AND more hireable
 
+**Requirements:**
+- A [GitHub account](https://github.com/signup)
+- [GitHub Copilot CLI](https://github.com/features/copilot/cli) installed
+
 🔗 **Register:** [calendly.com/htekdev/survive-ai-job-market](https://calendly.com/htekdev/survive-ai-job-market)
 
 ## 👨‍🏫 Your Instructor
